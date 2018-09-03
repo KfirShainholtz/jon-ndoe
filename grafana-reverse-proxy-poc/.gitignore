@@ -1,0 +1,13 @@
+.history
+.idea/**
+**/.DS_Store
+
+**/node_modules
+
+/*.iml
+/out
+/.idea_modules
+/.classpath
+/.project
+/RUNNING_PID
+/.settings
